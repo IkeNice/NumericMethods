@@ -1,0 +1,4 @@
+﻿  FormulaRunge.cpp
+c:\users\doctor tran\source\repos\formula_runge\formula_runge\formularunge.cpp(38): warning C4101: res: неиспользованная локальная переменная
+  Formula_Runge.vcxproj -> C:\Users\Doctor Tran\source\repos\Formula_Runge\Debug\Formula_Runge.exe
+  Formula_Runge.vcxproj -> C:\Users\Doctor Tran\source\repos\Formula_Runge\Debug\Formula_Runge.pdb (Partial PDB)
