@@ -1,0 +1,7 @@
+﻿  Пропуск... (изменения не обнаружены)
+  stdafx.cpp
+  LUразложение.cpp
+c:\users\doctor tran\source\repos\lu-разложение\lu-разложение\luразложение.cpp(15): warning C4101: j: неиспользованная локальная переменная
+c:\users\doctor tran\source\repos\lu-разложение\lu-разложение\luразложение.cpp(15): warning C4101: i: неиспользованная локальная переменная
+  LU-разложение.vcxproj -> C:\Users\Doctor Tran\source\repos\LU-разложение\Debug\LU-разложение.exe
+  LU-разложение.vcxproj -> C:\Users\Doctor Tran\source\repos\LU-разложение\Debug\LU-разложение.pdb (Partial PDB)
