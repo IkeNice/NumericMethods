@@ -2,6 +2,7 @@
 Exercise for KUBSU 3 course of numerial methods using Visual Studio
 
 Presented methods
+
 0. Trapezium method
 
    (Метод трапеции) dir integ-1
